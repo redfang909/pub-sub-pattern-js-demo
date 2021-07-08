@@ -1,0 +1,1 @@
+[![Tests](https://github.com/joemar-tagpuno/pub-sub-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/joemar-tagpuno/pub-sub-demo/actions/workflows/ci.yml)

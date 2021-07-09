@@ -21,4 +21,4 @@ const unsubscribe = (event, removeListener) => {
 
 #### Run test `npm run test` or `npm test`
 
-Push your implementation to you branch name.
+Push your implementation to your branch name.

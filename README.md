@@ -2,7 +2,7 @@
 
 ### Implement a Publish and Subscribe design pattern in JavaScript
 
-#### Clone this repository and checkout using a branch pattern `dev/your-name-here`
+#### Fork this repository and checkout using a branch pattern `dev/your-name-here`
 
 Locate the file `src/index.js` and implement your basic pub-sub algorithm in `EventBusFactory` object.
 ```JavaScript

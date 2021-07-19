@@ -7,15 +7,15 @@
 Locate the file `src/index.js` and implement your basic pub-sub algorithm in `EventBusFactory` object.
 ```JavaScript
 const fire = (event, payload) => {
-    // publish message here
+    // publish an event listener
 };
 
 const listen = (event, listener) => {
-    // subscribe a message
+    // create an event listener
 };
 
 const unsubscribe = (event, removeListener) => {
-    // unsubscribe from event
+    // unsubscribe a listener from event
 };
 ```
 

@@ -2,15 +2,15 @@ const EventBusFactory = () => {
     const listeners = {};
 
     const fire = (event, payload) => {
-        // publish message here
+        // publish an event listener
     };
 
     const listen = (event, listener) => {
-        // subscribe a message
+        // create an event listener
     };
 
     const unsubscribe = (event, removeListener) => {
-        // unsubscribe from event
+        // unsubscribe a listener from event
     };
 
     return {

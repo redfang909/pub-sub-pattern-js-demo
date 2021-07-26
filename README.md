@@ -1,4 +1,4 @@
-[![Tests](https://github.com/Remoto-Dojo/pub-sub-pattern-js-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/Remoto-Dojo/pub-sub-pattern-js-demo/actions/workflows/ci.yml)
+[![Tests](https://github.com/redfang909/pub-sub-pattern-js-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/redfang909/pub-sub-pattern-js-demo/actions/workflows/ci.yml)
 
 ### Implement a Publish and Subscribe design pattern in JavaScript
 
